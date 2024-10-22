@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="En">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width= device-width,initial-scale= 1.0">
+    <link rel="stylesheet"  href="styles.css">
+    <title> "Mi primera Pagina"</title>
+
+</head>
+<body>
+    <h1>"Bienvenidos a mi sitio Web"</h1>
+    <img src="https://purina.com.pa/sites/default/files/styles/webp/public/2022-10/Que_debes_saber_antes_de_adoptar_un_gatito.jpg.webp?itok=dAYH8tsk" alt="">
+    <p>"Mi comida favorita es las alitas o las quesadillas"</p>
+    <p>"En mi tiempo libre me gusta mucho leer, salir con mi novio y ir a la playa con mis amigos"<p>
+</body>
+
+<html>
